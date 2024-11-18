@@ -55,6 +55,9 @@
   .recharts-responsive-container {
     height: initial !important;
   }
+  :root {
+    --radius: 0.5rem;
+  }
 }
 
 @layer utilities {
